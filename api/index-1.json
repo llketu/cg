@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "msg": "ok",
+  "data": [
+    {
+      "title": "测试视频1",
+      "subTitle": "hi",
+      "topTip": "推荐",
+      "footerTip": "推荐",
+      "picUrl": "picUrl",
+      "videoUrl": "https://wolongzywcdn3.com:65/20220721/TIpQgg8V/index.m3u8",
+      "url": ""
+    }
+  ]
+}
